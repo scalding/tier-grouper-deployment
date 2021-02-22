@@ -1,3 +1,9 @@
+# Warning
+
+This is for an older version of Grouper. Check out the Internet2 Grouper wiki for more up to date information: [https://spaces.at.internet2.edu/display/Grouper/Grouper+Wiki+Home]
+
+For Grouper 2.5: [https://spaces.at.internet2.edu/display/Grouper/Grouper+v2.5+Release+Announcement]
+
 # Deploying the TIER Grouper Image using Docker Swarm
 
 This is the companion repository for the 4-part video tutorial that demonstrates how to deploy the TIER Grouper Docker image. In the video series, John Gasper, IAM Consultant, demonstrates:
